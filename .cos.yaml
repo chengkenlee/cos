@@ -1,0 +1,14 @@
+
+cos:
+  SecretId:
+  SecretKey:
+
+scan:
+#  object: [D:\Picture\PotPlayer,D:\Picture\这是今年的,D:\YunGameDownload\com.tudou.heidong.taptap.apk]
+  object: [D:\Picture\图片20231104,]
+
+log:
+  line: false
+  level: 0
+  path: 'C:\Users\Administrator\Documents\log'
+  console: true
